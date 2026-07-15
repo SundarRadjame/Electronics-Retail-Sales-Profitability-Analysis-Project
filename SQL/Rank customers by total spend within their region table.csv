@@ -1,0 +1,26 @@
+CustomerName,Region,TotalSpend,spend_rank
+"Mohamed Hassan",Central,25079.90,1
+"Ali Abdallah",Central,23130.20,2
+"Lina Hassan",Central,21092.60,3
+"Ali Hassan",Central,20819.20,4
+"Mohamed Johnson",Central,20577.62,5
+"Lina Smith",East,23892.07,1
+"Khaled Ibrahim",East,23733.41,2
+"Omar Ibrahim",East,23019.35,3
+"Hassan El-Sayed",East,21326.45,4
+"Lina Johnson",East,20368.32,5
+"Sara Hassan",North,24840.81,1
+"Nora Lee",North,24756.82,2
+"Fatima Hassan",North,23761.04,3
+"Mona Garcia",North,22138.30,4
+"Ali Smith",North,22119.67,5
+"Nora Brown",South,20502.20,1
+"Khaled Brown",South,19572.33,2
+"John Lee",South,19535.23,3
+"Khaled Abdallah",South,18719.43,4
+"Khaled Kamal",South,18715.32,5
+"Khaled Garcia",West,26112.52,1
+"Omar Brown",West,23813.10,2
+"Mona El-Sayed",West,22881.03,3
+"Omar Lee",West,21306.26,4
+"Mona Hassan",West,21024.63,5
