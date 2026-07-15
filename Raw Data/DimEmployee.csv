@@ -1,0 +1,51 @@
+EmployeeKey,EmployeeName,HireDate,Role,GeographyKey
+1,Youssef El-Sayed,2018-12-13,Support,4
+2,Fatima Abdallah,2018-02-13,Warehouse,6
+3,Nora Kamal,2019-07-13,Warehouse,32
+4,Ali Kamal,2023-12-21,Sales Rep,20
+5,Mona El-Sayed,2024-11-29,Manager,39
+6,Hassan El-Sayed,2022-10-07,Digital Marketing,34
+7,Hassan Garcia,2020-09-27,Digital Marketing,34
+8,Nora Omarson,2018-06-23,Digital Marketing,18
+9,Ali Johnson,2023-11-15,Manager,18
+10,John Smith,2022-02-12,Manager,11
+11,Fatima Garcia,2018-07-28,Warehouse,28
+12,Ali Hassan,2019-11-30,Support,37
+13,Mohamed Garcia,2020-10-20,Digital Marketing,6
+14,Khaled Smith,2021-04-03,Support,20
+15,Ali Lee,2020-12-20,Manager,25
+16,Ahmed Ibrahim,2024-05-18,Warehouse,10
+17,Sara Lee,2023-10-13,Sales Rep,31
+18,Ali Omarson,2023-06-23,Sales Rep,23
+19,Omar El-Sayed,2024-11-26,Warehouse,4
+20,Omar Lee,2021-12-20,Sales Rep,15
+21,Ahmed Garcia,2020-02-02,Warehouse,26
+22,Omar El-Sayed,2019-02-20,Warehouse,39
+23,Ali Brown,2018-12-14,Digital Marketing,17
+24,Fatima Johnson,2022-08-10,Sales Rep,31
+25,Ali El-Sayed,2019-09-30,Support,14
+26,Sara Abdallah,2022-06-08,Support,35
+27,Lina Garcia,2022-10-21,Manager,12
+28,Fatima Lee,2019-03-22,Warehouse,24
+29,Nora Abdallah,2019-10-25,Manager,5
+30,Omar Hassan,2018-01-24,Support,7
+31,Hassan Brown,2019-03-30,Manager,30
+32,Lina El-Sayed,2019-07-02,Warehouse,25
+33,Mona Garcia,2018-05-10,Manager,21
+34,Nora Brown,2023-05-18,Support,17
+35,Mohamed Hassan,2023-06-27,Digital Marketing,6
+36,Ali Ibrahim,2019-06-06,Support,30
+37,Khaled Hassan,2023-08-18,Warehouse,20
+38,John Smith,2019-03-18,Sales Rep,36
+39,John Johnson,2021-11-10,Digital Marketing,37
+40,Ahmed Ibrahim,2020-08-26,Sales Rep,1
+41,Nora Garcia,2022-10-26,Digital Marketing,8
+42,Hassan El-Sayed,2022-11-15,Warehouse,35
+43,Lina Lee,2023-06-14,Sales Rep,30
+44,Khaled Hassan,2020-10-11,Digital Marketing,7
+45,John Kamal,2020-02-05,Manager,16
+46,Lina Smith,2020-12-15,Manager,7
+47,Nora Hassan,2020-03-23,Warehouse,33
+48,Hassan Smith,2023-08-20,Digital Marketing,14
+49,John Brown,2024-08-18,Manager,27
+50,Sara Smith,2019-06-26,Warehouse,23
