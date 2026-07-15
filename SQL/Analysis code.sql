@@ -100,4 +100,4 @@ SELECT
 FROM vw_sales_full
 WHERE ShipDelayDays IS NOT NULL
 GROUP BY Channel
-ORDER BY AvgShipDelay DESC;
+ORDER BY AvgShipDelay DESC; 
